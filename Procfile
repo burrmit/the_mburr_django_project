@@ -1,3 +1,3 @@
 # Procfile
 
-web: gunicorn mysite.wsgi
+web: gunicorn the_mburr_django_project.wsgi
